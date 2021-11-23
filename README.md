@@ -14,3 +14,11 @@
 
 2. Exercises
    - Raspberry Pi + Python + GPIO = Profit :D
+
+## TODO
+
+- [ ] Powerpoint.
+- [ ] Upload code (Jack).
+- [ ] Get SD Cards.
+- [ ] Setup Rpis.
+- [ ] Make diagram of breadboard (Jack).
